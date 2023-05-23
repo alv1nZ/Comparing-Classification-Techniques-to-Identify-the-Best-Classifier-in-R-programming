@@ -7,9 +7,12 @@ Classifiers will be measured on these metrics: accuracy, error %, precisio, reca
 Train and split test set 
 
 (Format: Accuracy, Error rate, precision, recall, F-Score] Results: 
-CTree: 87%, 13%, 58%, 50%, 54%
-J48: 87%, 13%, 58%, 45%, 51%
-Linear Regression: 86%, 14%, 64%, 9%, 15%
-kNN: 86%, 14%, 54%, 25%, 34%
+**CTree:**87%, 13%, 58%, 50%, 54%
+
+**J48:** 87%, 13%, 58%, 45%, 51%
+
+**Linear Regression:** 86%, 14%, 64%, 9%, 15%
+**kNN:** 86%, 14%, 54%, 25%, 34%
+
 
 CTree Win
